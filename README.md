@@ -1,6 +1,9 @@
 Anixart PC (Unofficial Client)
 
 An unofficial desktop client for Anixart – a convenient way to watch anime from your computer.
+
+[🇷🇺](https://github.com/VictimZxc/Anixart-X/blob/main/READMEru.md)
+
 📌 Features
 
 ✅ Anime Catalog – new releases, popular titles, genre search
@@ -10,6 +13,7 @@ An unofficial desktop client for Anixart – a convenient way to watch anime fro
 ✅ Comments & Ratings – community discussions and reviews
 ✅ Notifications – alerts for new episodes
 ✅ Customizable Player – quality settings, subtitles, hotkeys
+
 📥 Installation
 
     Download the latest version from Releases
