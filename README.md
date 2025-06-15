@@ -7,11 +7,17 @@ An unofficial desktop client for Anixart – a convenient way to watch anime fro
 📌 Features
 
 ✅ Anime Catalog – new releases, popular titles, genre search
+
 ✅ Advanced Search – filter by year, status, rating
+
 ✅ Favorites – bookmark your preferred anime
+
 ✅ Watch History – resume from where you left off
+
 ✅ Comments & Ratings – community discussions and reviews
+
 ✅ Notifications – alerts for new episodes
+
 ✅ Customizable Player – quality settings, subtitles, hotkeys
 
 📥 Installation
