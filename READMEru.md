@@ -18,7 +18,7 @@ Anixart PC (Неофициальный клиент)
 
     Скачай последнюю версию из Releases
 
-    Запусти Anixart-Setup-x.x.x.exe
+    Запусти AnixartXSetup.exe
 
     Следуй инструкциям установщика
 
