@@ -18,7 +18,7 @@ An unofficial desktop client for Anixart – a convenient way to watch anime fro
 
     Download the latest version from Releases
 
-    Run Anixart-Setup-x.x.x.exe
+    Run AnixartXSetup.exe
 
     Follow the installer instructions
 
