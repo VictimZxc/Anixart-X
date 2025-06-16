@@ -48,5 +48,5 @@ An unofficial desktop client for Anixart – a convenient way to watch anime fro
 
 🐞 Bug Reports & Suggestions
 
-Found a bug or have ideas for improvement?
-Open an Issue
+    Found a bug or have ideas for improvement?
+    Open an Issue
