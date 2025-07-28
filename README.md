@@ -27,6 +27,8 @@ An unofficial desktop client for Anixart – a convenient way to watch anime fro
 3. Install the app:  
    ```bash
    flatpak install --user AnixartX.flatpak
+4. Launch from your applications menu or run:
+   ```bash
    flatpak run org.anixart.X
 
 ⚙️ System Requirements
