@@ -4,33 +4,34 @@ An unofficial desktop client for Anixart – a convenient way to watch anime fro
 
 [🇷🇺](https://github.com/VictimZxc/Anixart-X/blob/main/READMEru.md)
 
-📌 Features
+## 📌 Features
 
-✅ Anime Catalog – new releases, popular titles, genre search
+- ✅ **Anime Catalog** – new releases, popular titles, genre search  
+- ✅ **Advanced Search** – filter by year, status, rating  
+- ✅ **Favorites** – bookmark your preferred anime  
+- ✅ **Watch History** – resume from where you left off  
+- ✅ **Comments & Ratings** – community discussions and reviews  
+- ✅ **Notifications** – alerts for new episodes  
+- ✅ **Customizable Player** – quality settings, subtitles, hotkeys  
 
-✅ Advanced Search – filter by year, status, rating
+## 📥 Installation
 
-✅ Favorites – bookmark your preferred anime
+### 🪟 Windows:
+1. Download the latest version from **Releases**  
+2. Run `AnixartXSetup.exe`  
+3. Follow the installer instructions  
 
-✅ Watch History – resume from where you left off
-
-✅ Comments & Ratings – community discussions and reviews
-
-✅ Notifications – alerts for new episodes
-
-✅ Customizable Player – quality settings, subtitles, hotkeys
-
-📥 Installation
-
-    Download the latest version from Releases
-
-    Run AnixartXSetup.exe
-
-    Follow the installer instructions
+### 🐧 Linux (Flatpak):
+1. Download the `.flatpak` bundle from **Releases**  
+2. Open a terminal in the folder where the file is located  
+3. Install the app:  
+   ```bash
+   flatpak install --user AnixartX.flatpak
+   flatpak run org.anixart.X
 
 ⚙️ System Requirements
 
-    OS: Windows 10/11 (64-bit)
+    OS: Windows 10/11 (64-bit) or Linux with Flatpak support
 
     RAM: 2 GB+
 
