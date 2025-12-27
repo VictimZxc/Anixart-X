@@ -18,7 +18,7 @@ Anixart PC (Неофициальный клиент)
 
 ### 🪟 Windows:
 1. Скачайте последнюю версию из **Releases**  
-2. Запустите `AnixartXSetup.exe`  
+2. Запустите `Anixart X Installer.exe`  
 3. Следуйте инструкциям установщика  
 
 ### 🐧 Linux (Flatpak):
