@@ -18,7 +18,7 @@ An unofficial desktop client for Anixart – a convenient way to watch anime fro
 
 ### 🪟 Windows:
 1. Download the latest version from **Releases**  
-2. Run `AnixartXSetup.exe`  
+2. Run `Anixart X Installer.exe`  
 3. Follow the installer instructions  
 
 ### 🐧 Linux (Flatpak):
