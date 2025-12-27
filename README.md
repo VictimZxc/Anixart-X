@@ -29,7 +29,7 @@ An unofficial desktop client for Anixart – a convenient way to watch anime fro
    flatpak install --user AnixartX.flatpak
 4. Launch from your applications menu or run:
    ```bash
-   flatpak run org.anixart.X
+   flatpak run com.anixart.AnixartX
 
 ⚙️ System Requirements
 
