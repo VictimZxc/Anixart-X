@@ -27,9 +27,9 @@ Anixart PC (Неофициальный клиент)
 3. Установите приложение:  
    ```bash
    flatpak install --user AnixartX.flatpak
-4. Запустите из меню приложений или командой:
+4. Запустите командой:
    ```bash
-   flatpak run org.anixart.X
+   flatpak run com.anixart.AnixartX
 
 ⚙️ Системные требования
 
